@@ -35,6 +35,5 @@ This project is a basic CRUD (Create, Read, Update, Delete) API implementation. 
 - **HTTP Client (optional):** Postman / Insomnia  
 
 ---
-
-## 📂 Folder Structure
+## Follow me
 
